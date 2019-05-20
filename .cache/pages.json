@@ -1,0 +1,27 @@
+[
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-landing-page-jsx",
+        "jsonName": "landing-page-f34",
+        "path": "/LandingPage/"
+    },
+    {
+        "componentChunkName": "component---src-pages-product-section-jsx",
+        "jsonName": "product-section-a3b",
+        "path": "/ProductSection/"
+    },
+    {
+        "componentChunkName": "component---src-pages-skills-section-jsx",
+        "jsonName": "skills-section-71e",
+        "path": "/SkillsSection/"
+    },
+    {
+        "componentChunkName": "component---src-pages-work-section-jsx",
+        "jsonName": "work-section-aac",
+        "path": "/WorkSection/"
+    }
+]
